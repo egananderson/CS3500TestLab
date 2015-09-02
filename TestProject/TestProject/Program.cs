@@ -10,7 +10,7 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
-            int x = 0;
+            int x = 1;
             for (int i = 0; i < 20; i++)
             {
                 x += i;
